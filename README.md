@@ -3,7 +3,9 @@
 # cara menjalankannya
 
 buatlah project dalam xampp
+```bash
 create database crud_db
+```
 
 ```bash
 USE crud_db;
